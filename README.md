@@ -102,8 +102,6 @@ WHERE
   AND c.countries_and_territories = "Chad"
 ```
 ![image](https://github.com/SANMATHI-1777/SANMATHI-1777/assets/158753766/08311a4a-aabe-496b-86d4-8e07763c688c)
-![image](https://github.com/SANMATHI-1777/SANMATHI-1777/assets/158753766/e7049258-b1a7-482f-8e2d-bff565d9221a)
-![image](https://github.com/SANMATHI-1777/SANMATHI-1777/assets/158753766/8ba732eb-822b-487a-bf51-e5eee1f9127a)
 
 9. WHAT IS THE TOATL NUMBER OF VENTILATORS USED IN INDIA DURING COVID19?
 ```SQL
